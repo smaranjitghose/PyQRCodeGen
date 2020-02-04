@@ -10,6 +10,7 @@ Download the qrcode.exe file and run it
 
 ## Elaborate Usage:
 * Open the Terminal and give the following command: **pip install pyqrcode**
+
 ![](images/install.PNG)
 * Download the qrcode.py file from this repository
 * CD where its downloaded
@@ -21,6 +22,7 @@ Download the qrcode.exe file and run it
 ![](images/run.PNG)
 
 * Baam!..You are done
+
 ![](/images/demo_qrcode.svg)
 
 
