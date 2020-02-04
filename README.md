@@ -8,7 +8,7 @@ A simple script written using Python to generate minimalistic QRCodes
 ## Procedure:
 * Open the Terminal and give the following command:
   * pip install pyqrcode
-* Download the qrcode.py Script
+* Download the qrcode.py file from this repository
 * CD where its downloaded
 * Run the command:
   python qrcode.py
