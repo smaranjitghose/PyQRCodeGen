@@ -6,10 +6,10 @@ A simple script written using Python to generate minimalistic QRCodes
 2. pip should be added to Path
 
 ## Direct Usage:
-Download the qrcode.exe file and run it
+Download the ```qrcode.exe``` file and run it
 
 ## Elaborate Usage:
-* Open the Terminal and give the following command: **pip install pyqrcode**
+* Open the Terminal and give the following command: ```pip install pyqrcode```
 
 ![](images/install.PNG)
 * Download the qrcode.py file from this repository
@@ -17,7 +17,7 @@ Download the qrcode.exe file and run it
  
  ![](images/chdir.PNG)
 * Run the command:
-  python qrcode.py
+  ```python qrcode.py```
   
 ![](images/run.PNG)
    
